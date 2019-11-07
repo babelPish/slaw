@@ -1,0 +1,3 @@
+[submodule "nlp_basic/Natural-Language-Processing-and-Computational-Linguistics"]
+	path = nlp_basic/Natural-Language-Processing-and-Computational-Linguistics
+	url = https://github.com/PacktPublishing/Natural-Language-Processing-and-Computational-Linguistics.git
